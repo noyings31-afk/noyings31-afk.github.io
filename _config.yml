@@ -85,7 +85,7 @@ social-network-links:
 #  strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+# The URL for the feed will be https://https://github.com/noyings31-afk/noyings31-afk.github.io/edit/master/_config.yml/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://github.com/noyings31-afk/noyings31-afk.github.io/edit/master/_config.yml"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
